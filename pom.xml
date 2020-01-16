@@ -20,7 +20,7 @@
 		<aliyun-oss-version>2.5.0</aliyun-oss-version>
 		<qcloud-cos-version>4.4</qcloud-cos-version>
 		<activiti.version>5.22.0</activiti.version>
-		<hutool-all-version>4.0.5</hutool-all-version>
+		<hutool-all-version>4.1.12</hutool-all-version>
 	</properties>
 	<dependencies>
 
